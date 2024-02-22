@@ -64,7 +64,7 @@ body {
     font-style: italic;
     font-size: 25px;
     width: 100%; 
-    height: 830px;
+    height: 450px;
     color: #ffffff;
     display: flex;
     flex-direction: column;
@@ -143,14 +143,13 @@ audio{
 
   <div>
         <div class="text">
-     
   <canvas id="pinkboard"></canvas>
   <!-- Chữ viền shadow <h1  class="dang! text">TEST</h1>-->
   
   <div class="text">
     
     <h2 class="title">
-      <span class="title-word title-word-1">khoa</span>
+      <span class="title-word title-word-1">thẩm</span>
    
     </h2>
   </div>
@@ -163,11 +162,11 @@ audio{
     */
    var settings = {
      particles: {
-       length:   500, // lượng hạt tối đa
-       duration:   2, // thời gian hạt tính bằng giây
+       length:   500, // lượng hạt tối 
+       duration:   3.5, // thời gian hạt tính bằng giây
        velocity: 100, // vận tốc hạt tính bằng pixel / giây
-       effect: -0.75, // chơi cái này để có hiệu ứng đẹp =)))
-       size:      30, // kích thước hạt tính bằng pixel
+       effect: -0.80, // chơi cái này để có hiệu ứng đẹp =)))
+       size:      20, // kích thước hạt tính bằng pixel
      },
    };
    
