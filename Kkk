@@ -146,7 +146,7 @@ audio{
   <canvas id="pinkboard"></canvas>
   <!-- Chữ viền shadow <h1  class="dang! text">TEST</h1>-->
   
-  <div class="text">
+  
     
     <h2 class="title">
       <span class="title-word title-word-1">thẩm</span>
