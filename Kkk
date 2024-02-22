@@ -143,15 +143,16 @@ audio{
 
   <div>
         <div class="text">
+             <h2 class="title">
+      <span class="title-word title-word-1">thẩm</span>
+   
+    </h2>
   <canvas id="pinkboard"></canvas>
   <!-- Chữ viền shadow <h1  class="dang! text">TEST</h1>-->
   
   
     
-    <h2 class="title">
-      <span class="title-word title-word-1">thẩm</span>
    
-    </h2>
   </div>
   
 </div>
@@ -165,7 +166,7 @@ audio{
        length:   500, // lượng hạt tối 
        duration:   3.5, // thời gian hạt tính bằng giây
        velocity: 100, // vận tốc hạt tính bằng pixel / giây
-       effect: -0.80, // chơi cái này để có hiệu ứng đẹp =)))
+       effect: -0.70, // chơi cái này để có hiệu ứng đẹp =)))
        size:      20, // kích thước hạt tính bằng pixel
      },
    };
